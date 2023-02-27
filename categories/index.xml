@@ -5,6 +5,16 @@
     <link>https://jbaglin.github.io/categories/</link>
     <description>Recent content in Categories on Visual Variance - a blog by Dr James Baglin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jbaglin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jbaglin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annoucements</title>
+      <link>https://jbaglin.github.io/categories/annoucements/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbaglin.github.io/categories/annoucements/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
